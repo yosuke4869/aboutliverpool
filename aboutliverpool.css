@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {background-color: red;
+      margin: 0;  
+      display: flex;  
+      min-height: 100vh;
+}
+aside{
+    width: 15%;
+    line-height: 50px;
+    font-size: 15px;
+}
+ul {
+    list-style: none;
+    padding: none;
+}
+main{text-align: center;
+    width: 700px;
+    margin: 0 auto;
+
+    
+}
+
+h3{color: white;
+   text-align: center;
+   margin-top: 20px;
+    ｝
